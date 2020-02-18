@@ -13,4 +13,7 @@ body.loaded .fadein {
     opacity: 1;
 }
 div{
+	background: blue;
+	display: block;
+	margin: auto;align-content: center;
 }
